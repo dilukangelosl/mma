@@ -23,7 +23,8 @@ import {RecepiesPage} from '../pages/recepies/recepies';
 import {OffersPage} from '../pages/offers/offers';
 import {StandardsPage} from '../pages/standards/standards';
 import {FeedviewPage} from '../pages/feedview/feedview';
-
+import {ConsultantPagePage} from '../pages/consultant/consultant';
+import {ChatPagePage} from '../pages/chat/chat';
 // Import the AF2 Module
 import { AngularFireModule, AuthProviders, AuthMethods } from 'angularfire2';
 
@@ -66,8 +67,9 @@ const myFirebaseAuthConfig = {
     RecepiesPage,
     OffersPage,
     StandardsPage,
-    FeedviewPage
-
+    FeedviewPage,
+    ChatPagePage,
+ConsultantPagePage
   ],
   imports: [
     IonicModule.forRoot(MyApp),
@@ -89,7 +91,9 @@ const myFirebaseAuthConfig = {
     RecepiesPage,
     OffersPage,
     StandardsPage,
-    FeedviewPage
+    FeedviewPage,
+    ChatPagePage,
+    ConsultantPagePage
   ],
   providers: [{provide: ErrorHandler, useClass: IonicErrorHandler}, Storage,Authservice]
 })

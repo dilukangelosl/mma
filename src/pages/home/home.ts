@@ -7,7 +7,7 @@ import {ProductsPage} from '../products/products';
 import {RecepiesPage} from '../recepies/recepies';
 import {OffersPage} from '../offers/offers';
 import {StandardsPage} from '../standards/standards';
-
+import {ConsultantPagePage} from '../consultant/consultant';
 /*
   Generated class for the Home page.
 
@@ -53,6 +53,10 @@ export class HomePage {
 
          case 6:
          this.navCtrl.push(StandardsPage)
+        break;
+
+        case 7:
+        this.navCtrl.push(ConsultantPagePage);
         break;
 
          

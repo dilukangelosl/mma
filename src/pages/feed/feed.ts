@@ -78,10 +78,10 @@ this.now = m ;
 
       this.feeds = [   {
 
-            image:"https://scontent.fcmb3-1.fna.fbcdn.net/v/t31.0-8/16819296_1526241664075769_4530616431967528785_o.jpg?oh=c9b93789600b9d829503294af4610dc7&oe=594A582D",
+            image:"https://sc01.alicdn.com/kf/UT8VRLtXvRaXXagOFbXS/Red-Chili-Virgin-Coconut-Oil.jpg",
             title:"Did you Know?",
-            publishedDate:"2017-02-23T12:29:10.1010+05:30",
-            thumbnail:"./assets/img/logo.png",
+            publishedDate:"2017-10-23T12:29:10.1010+05:30",
+            thumbnail:"https://sc01.alicdn.com/kf/UT8VRLtXvRaXXagOFbXS/Red-Chili-Virgin-Coconut-Oil.jpg",
             content:"",
             likes : [
               {
@@ -124,10 +124,10 @@ this.now = m ;
 
          {
 
-            image:"https://scontent.fcmb3-1.fna.fbcdn.net/v/t1.0-0/s480x480/16508279_1512435608789708_1937110071935998453_n.png?oh=c9201864217eb508391ff74100dfb916&oe=59418E46",
+            image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVR783TxjkKWCce1BHa0MjLkWVF8iTrezNc9h1pXwv2dUGZ-4X",
             title:"Comment Now !!",
             publishedDate:"2017-02-20T13:29:10.1010+05:30",
-            thumbnail:"./assets/img/logo.png",
+            thumbnail:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVR783TxjkKWCce1BHa0MjLkWVF8iTrezNc9h1pXwv2dUGZ-4X",
             content:"",
             likes : [
               {
@@ -175,10 +175,10 @@ this.now = m ;
 
         {
 
-            image:"https://scontent.fcmb3-1.fna.fbcdn.net/v/t31.0-8/16463842_1510272285672707_7739163369323704553_o.jpg?oh=6e470d5395ae3197deb0bc15490e5a88&oe=5935E9B9",
+            image:"https://www.marinacookingoil.com/images/800/564/media-poster-3.jpg?h=264cb780",
             title:"Marina Spread, The Best Choice",
             publishedDate:"2017-02-20T14:29:10.1010+05:30",
-            thumbnail:"./assets/img/logo.png",
+            thumbnail:"https://www.marinacookingoil.com/images/800/564/media-poster-3.jpg?h=264cb780",
             content:"",
             likes : [
               {
